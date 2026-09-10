@@ -11,7 +11,7 @@ Utilize o índice abaixo para navegar entre os módulos, processos, APIs e confi
 Informações gerais sobre o sistema e seus principais conceitos.
 
 * [Visão geral do sistema](teste2/README.md)
-* [Conceitos](01-introducao/conceitos.md)
+* [Conceitos](teste3/README.md)
 
 ---
 
