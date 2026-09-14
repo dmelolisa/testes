@@ -13,6 +13,7 @@ Informações gerais sobre o sistema e seus principais conceitos.
 * [Visão geral do sistema](teste2/README.md)
 * [Conceitos](teste3/README.md)
 * [Teste alguma coisa](teste3/README.md)
+* [Teste alguma coisa](teste3/imagem.jpeg)
 
 ---
 
